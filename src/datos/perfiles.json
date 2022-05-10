@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Operador de CMD"
+    },
+    {
+        "id": 2,
+        "nombre": "Responsable de Unidad"
+    },
+    {
+        "id": 3,
+        "nombre": "Jefe de Trabajos"
+    }
+]
